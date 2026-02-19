@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "So oder so",
+  "base_artist": "Eisbrecher",
+  "createdAt": "2026-02-19T11:38:23.557578Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "So oder so",
+      "artist": "Cäthe",
+      "has_synced": false,
+      "path": "select/01_So_oder_so_Cäthe.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "So Oder So",
+      "artist": "Eisbrecher",
+      "has_synced": true,
+      "path": "select/02_So_Oder_So_Eisbrecher.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "So oder so",
+      "artist": "Matthias Reim",
+      "has_synced": false,
+      "path": "select/03_So_oder_so_Matthias_Reim.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "So oder so",
+      "artist": "Bosse",
+      "has_synced": true,
+      "path": "select/04_So_oder_so_Bosse.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "So oder so - Akustisch",
+      "artist": "Bosse",
+      "has_synced": true,
+      "path": "select/05_So_oder_so_-_Akustisch_Bosse.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "So oder so - Live in Hamburg",
+      "artist": "Bosse",
+      "has_synced": false,
+      "path": "select/06_So_oder_so_-_Live_in_Hamburg_Bosse.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "So Oder So",
+      "artist": "QL",
+      "has_synced": false,
+      "path": "select/07_So_Oder_So_QL.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "So oder so ist das Leben",
+      "artist": "Udo Lindenberg",
+      "has_synced": true,
+      "path": "select/08_So_oder_so_ist_das_Leben_Udo_Lindenberg.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "SO ODER SO",
+      "artist": "Marvin Game feat. Aisha Vibes & TACKA77",
+      "has_synced": true,
+      "path": "select/09_SO_ODER_SO_Marvin_Game_feat._Aisha_Vibes_&_TACKA77.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "SO ODER SO",
+      "artist": "Marvin Game, Aisha Vibes & TACKA77",
+      "has_synced": true,
+      "path": "select/10_SO_ODER_SO_Marvin_Game,_Aisha_Vibes_&_TACKA77.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Ob es so oder so oder anders kommt",
+      "artist": "Lena Valaitis",
+      "has_synced": true,
+      "path": "select/11_Ob_es_so_oder_so_oder_anders_kommt_Lena_Valaitis.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "So oder so",
+      "artist": "Joachim Witt",
+      "has_synced": false,
+      "path": "select/12_So_oder_so_Joachim_Witt.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "So oder so",
+      "artist": "Mosh36",
+      "has_synced": true,
+      "path": "select/13_So_oder_so_Mosh36.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "So oder so ist das Leben",
+      "artist": "Udo Lindenberg",
+      "has_synced": true,
+      "path": "select/14_So_oder_so_ist_das_Leben_Udo_Lindenberg.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "So oder so",
+      "artist": "Michelle",
+      "has_synced": true,
+      "path": "select/15_So_oder_so_Michelle.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "So Oder So",
+      "artist": "Eisbrecher",
+      "has_synced": false,
+      "path": "select/pl_01_So_Oder_So_Eisbrecher.txt"
+    }
+  ]
+}
